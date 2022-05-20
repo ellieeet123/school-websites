@@ -1,4 +1,1 @@
-hello-worId
-===========
-
-My first repository on GitHub.
+you can ignore this repo, it's only purpose is to host school projects in the form of websites.
